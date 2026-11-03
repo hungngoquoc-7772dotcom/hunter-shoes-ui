@@ -9,7 +9,7 @@
 | 5 | Báo cáo kiểm thử | Phần 9 trong Word, TEST_REPORT.md và evidence/results.json | Có |
 | 6 | Báo cáo AI | Phần 11 trong Word và AI_USAGE.md | Có; phản ánh phiên hỗ trợ thật |
 | 7 | Bảy câu hỏi kiến thức | Phần 12 trong Word | Có đủ 7 câu |
-| 8 | Repository và README | https://github.com/hungngoquoc-7772dotcom/hunter-shoes-ui | Đã chuẩn bị để tải lên; xác nhận bằng repository thực tế |
+| 8 | Repository và README | https://github.com/hungngoquoc-7772dotcom/hunter-shoes-ui | Đã tạo Public và cập nhật mã nguồn, README; đã kiểm tra bằng API GitHub |
 
 ## Điều kiện cá nhân trước khi nộp
 - Điền họ tên, MSSV và mã lớp trên bìa.
