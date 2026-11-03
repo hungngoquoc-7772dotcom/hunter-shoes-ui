@@ -29,4 +29,6 @@ Repository công khai: https://github.com/hungngoquoc-7772dotcom/hunter-shoes-ui
 Chưa triển khai Pages.
 
 ## Phần sinh viên tự thực hiện
-Cần tự chạy và sửa một điểm theo yêu cầu Bước8, lưu ảnh và giải thích. Kết quả do Codex hỗ trợ được ghi đúng trong nhật ký, không thay thế bằng chứng sinh viên tự làm.
+Bước 8 đã thực hiện chỉnh sửa có Codex hỗ trợ: tăng ô size từ 36×36px lên 44×44px. Kiểm tra 1366/768/390/320px không tràn; mọi ô size nằm trong thẻ. Bàn phím Space, ArrowRight, Tab và hướng dẫn size đã chạy thử. Sinh viên cần hiểu và giải thích thao tác; không ghi chỉnh sửa có AI hỗ trợ là thao tác tự làm không có AI.
+
+Ảnh README thể hiện bản Buổi 2 trước chỉnh sửa kích thước ô size tại Bước 8.
