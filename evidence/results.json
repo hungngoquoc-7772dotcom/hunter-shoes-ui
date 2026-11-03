@@ -1,0 +1,65 @@
+[
+  {
+    "version": 1,
+    "viewport": 1366,
+    "scrollWidth": 1366,
+    "images": true,
+    "columns": "none",
+    "cardWidth": 276,
+    "imageRatio": 1.72,
+    "cards": 4
+  },
+  {
+    "version": 1,
+    "viewport": 768,
+    "scrollWidth": 1172,
+    "images": true,
+    "columns": "none",
+    "cardWidth": 276,
+    "imageRatio": 1.72,
+    "cards": 4
+  },
+  {
+    "version": 1,
+    "viewport": 390,
+    "scrollWidth": 1172,
+    "images": true,
+    "columns": "none",
+    "cardWidth": 276,
+    "imageRatio": 1.72,
+    "cards": 4
+  },
+  {
+    "version": 2,
+    "viewport": 1366,
+    "scrollWidth": 1366,
+    "images": true,
+    "columns": "286.5px 286.5px 286.5px 286.5px",
+    "cardWidth": 286.5,
+    "imageRatio": 1.3333333333333333,
+    "cards": 4
+  },
+  {
+    "version": 2,
+    "viewport": 768,
+    "scrollWidth": 768,
+    "images": true,
+    "columns": "355px 355px",
+    "cardWidth": 355,
+    "imageRatio": 1.3333333333333333,
+    "cards": 4
+  },
+  {
+    "version": 2,
+    "viewport": 390,
+    "scrollWidth": 390,
+    "images": true,
+    "columns": "350px",
+    "cardWidth": 350,
+    "imageRatio": 1.3333333333333333,
+    "cards": 4,
+    "selectedSize": "39",
+    "guideOpens": true,
+    "guideHash": "#size-guide"
+  }
+]
