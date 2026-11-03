@@ -12,4 +12,4 @@ Lỗi: thẻ cố định 276px và flex-shrink:0 khiến hàng 4 thẻ rộng h
 Ảnh trước tỷ lệ 1,72; sau tỷ lệ4:3 với object-fit:contain.
 Tại390px: chọn size39 thành công, details mở, liên kết đến #size-guide đúng.
 Hover/focus có CSS; ảnh size-focus ghi lại kiểm tra tự động. Chưa kiểm tra toàn bộ hành trình bàn phím hoặc trình đọc màn hình. Nút mua vô hiệu hóa vì bản tĩnh chưa có đặt hàng.
-Xem evidence/results.json để đối chiếu phép đo. Phần sinh viên sửa độc lập còn chờ sinh viên thực hiện.
+Xem evidence/results.json để đối chiếu phép đo. Bước 8 đã bổ sung chỉnh sửa có Codex hỗ trợ: ô size36×36px →44×44px. Chạy lại1366/768/390/320px, scrollWidth bằng viewport, tất cả28 ô size nằm trong thẻ; Space/ArrowRight/Tab hoạt động. Không khẳng định sinh viên tự làm không có AI.
