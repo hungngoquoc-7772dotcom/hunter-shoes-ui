@@ -26,9 +26,13 @@ Xem [báo cáo kiểm thử](TEST_REPORT.md), [kết quả đo](evidence/results
 
 ## GitHub
 Repository công khai: https://github.com/hungngoquoc-7772dotcom/hunter-shoes-ui
-Chưa triển khai Pages.
+Website: https://hungngoquoc-7772dotcom.github.io/hunter-shoes-ui/
 
 ## Phần sinh viên tự thực hiện
 Bước 8 đã thực hiện chỉnh sửa có Codex hỗ trợ: tăng ô size từ 36×36px lên 44×44px. Kiểm tra 1366/768/390/320px không tràn; mọi ô size nằm trong thẻ. Bàn phím Space, ArrowRight, Tab và hướng dẫn size đã chạy thử. Sinh viên cần hiểu và giải thích thao tác; không ghi chỉnh sửa có AI hỗ trợ là thao tác tự làm không có AI.
 
 Ảnh README thể hiện bản Buổi 2 trước chỉnh sửa kích thước ô size tại Bước 8.
+
+## Google Analytics 4
+Luồng: Bitis Hunter - Website BTCN. Mã đo lường: G-6M00YSX59X.
+Thẻ Google được gắn một lần trong head của index.html; Google đã xác nhận phát hiện thẻ trên website. Bật đo lường nâng cao cho lượt xem trang và các tương tác tự động được hỗ trợ.
